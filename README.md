@@ -13,3 +13,7 @@ vamos a realizar y comprobar este experimento en casa.
 - 1 palo de balzo
 - papel aluminio
 - 1 bisturi
+# PROCEDIMIENTO
+ Como primer paso tomaremos un trozo de papel auliminio cortsdo en forma rectangular, se tomara el visturi se realizara un primer corte guiado por la regla en este caso de 9 cm de largo y el ancho sera igual al grosor de la hoja del visturi, se realizara un corte paralelo e igual a una distancia a no mas de medio milimetro.
+
+
