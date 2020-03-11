@@ -35,6 +35,9 @@ ahora teniendo en cuenta el siguiente planteamiento tomado del libro "Quantum Co
 
 ![alt text](https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/Captura.PNG)
 
+de aqui en adelante usaremos la calculadora compleja de:
+https://github.com/jocajime/CNYT-3-2020-1
+
 donde tenemos enumerados los nodos en los que puede estar la particula en un determinado numero de clicks de tiempo,al simular el experimento en una calculadora compleja nos da la siguiente grafica de posibilidades luego de 1 click de tiempo:
 
 ![alt text](https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion.png)
