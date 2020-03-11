@@ -14,6 +14,7 @@ vamos a realizar y comprobar este experimento en casa.
 - papel aluminio
 - 1 bisturi
 - 1 Puntero Laser
+![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/exp2.jpeg)
 # PROCEDIMIENTO DEL EXPERIMENTO
 - Como primer paso tomaremos un trozo de papel auliminio cortsdo en forma rectangular, se tomara el visturi se realizara un primer corte   guiado por la regla en este caso de 9 cm de largo y el ancho sera igual al grosor de la hoja del visturi, se realizara un corte   paralelo e igual a una distancia a no mas de medio milimetro.
 - Como segundo se realizara una pequeña prueba apuntando el laser al espacio ubicado entre las dos rendijas, y se apuntara a una pared donde se encuentre oscuro para verificar si quedo bien echa o no.
@@ -22,6 +23,22 @@ vamos a realizar y comprobar este experimento en casa.
 - Como Quinto paso se realizara la misma estructura antes presentada de la cartulina y los palos de balso pero un poco mas grande del tamaño de la anterior y esta no tendra una rendija es decir no tendra ningun orificio este sera nuestro apoyo para ver el resultado del experimento.
 - Como ultimo paso se acomodara la estructura que tiene la rendija frente a la estrucutra que no la tiene a una distancia prudente, y desde una distancia de aproximadamente un metro se apuntara el laser al espacio entre las dos rendijas.
 
+![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/exp1.jpeg)
+
 # RESULTADOS DEL EXPERIMENTO
 Lo primero que vemos es que los electrones llegan a la segunda estructura y colisionan con ella en regiones localizadas. Esto nos lleva a pensar que se comportan como electrones o fotones(dependiendo de la teoria), donde Se comienza a formar un patrón de franjas con áreas de mucha intensidad y areas de poca intensidad. Estamos recostruyendo un patrón de interferencias. Donde las interferencias se pueden presentar debido a que existe la posibilidad de que una particula pase por las dos rendijas, o pase por alguna de las dos en donde esta al pasar por una o por las dos o no pasar, esta podra colisionar con otra particula y asi haciendo casi imposible saber la trayaectoria en especifico, la teoria cuantica nos dice que si intentamos saber la rendija por la cual pasa un electrón o seguir su trayectoria el patrón de interferencia desaparece.  De hecho, si en mitad del experimento tapamos una de las rendijas el patrón de interferencia desaparece. 
+![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/patron.jpeg)
+
+ahora teniendo en cuenta el siguiente planteamiento tomado del libro "Quantum Computing for Computer Scientists" :
+
+![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/Captura.PNG)
+donde tenemos enumerados los nodos en los que puede estar la particula en un determinado numero de clicks de tiempo,al simular el experimento en una calculadora compleja nos da la siguiente grafica de posibilidades luego de 1 click de tiempo:
+
+![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion1.png)
+esto nos muestra que es la misma posibilidad de estar en cualquiera de las dos rendijas, o estar en las dos al mismo tiempo.
+por ultimo luego de dos clicks de tiempo vemos las sigientes posibilidades
+![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion2.png)
+dandonos el patron mostrado anteriormente.
+
+
 
