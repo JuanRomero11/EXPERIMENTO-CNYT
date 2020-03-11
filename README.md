@@ -5,6 +5,9 @@ En este documento usted podra evidenciar la explicacion detallada de la interacc
 # ¿QUE ES?
 El experimento de Young o más conocido como el experimento de la doble rendija fue un experimento realizado en 1801 por Thomas Young, en un intento de discernir la naturaleza corpuscular u ondulatoria de la luz. Young comprobó un patrón de interferencias en la luz procedente de una fuente lejana al difractarse en el paso por dos rejillas, resultado que contribuyó a la teoría de la naturaleza ondulatoria de la luz.
 
+https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/dibujo.png
+
+
 # MATERIALES
 - 2 Octavos de cartulina
 - 1 palo de balzo
