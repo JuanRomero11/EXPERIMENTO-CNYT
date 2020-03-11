@@ -23,5 +23,5 @@ vamos a realizar y comprobar este experimento en casa.
 - Como ultimo paso se acomodara la estructura que tiene la rendija frente a la estrucutra que no la tiene a una distancia prudente, y desde una distancia de aproximadamente un metro se apuntara el laser al espacio entre las dos rendijas.
 
 # RESULTADOS DEL EXPERIMENTO
-
+Lo primero que vemos es que los electrones llegan a la segunda estructura y colisionan con ella en regiones localizadas. Esto nos lleva a pensar que se comportan como electrones o fotones(dependiendo de la teoria), donde Se comienza a formar un patrón de franjas con áreas de mucha intensidad y areas de poca intensidad. Estamos recostruyendo un patrón de interferencias. Donde las interferencias se pueden presentar debido a que existe la posibilidad de que una particula pase por las dos rendijas, o pase por alguna de las dos en donde esta al pasar por una o por las dos o no pasar, esta podra colisionar con otra particula y asi haciendo casi imposible saber la trayaectoria en especifico, la teoria cuantica nos dice que si intentamos saber la rendija por la cual pasa un electrón o seguir su trayectoria el patrón de interferencia desaparece.  De hecho, si en mitad del experimento tapamos una de las rendijas el patrón de interferencia desaparece. 
 
