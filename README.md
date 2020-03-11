@@ -14,6 +14,9 @@ vamos a realizar y comprobar este experimento en casa.
 - papel aluminio
 - 1 bisturi
 # PROCEDIMIENTO
- Como primer paso tomaremos un trozo de papel auliminio cortsdo en forma rectangular, se tomara el visturi se realizara un primer corte guiado por la regla en este caso de 9 cm de largo y el ancho sera igual al grosor de la hoja del visturi, se realizara un corte paralelo e igual a una distancia a no mas de medio milimetro.
+- Como primer paso tomaremos un trozo de papel auliminio cortsdo en forma rectangular, se tomara el visturi se realizara un primer corte   guiado por la regla en este caso de 9 cm de largo y el ancho sera igual al grosor de la hoja del visturi, se realizara un corte   paralelo e igual a una distancia a no mas de medio milimetro.
+- Como segundo se realizara una pequeña prueba apuntando el laser al espacio ubicado entre las dos rendijas, y se apuntara a una pared donde se encuentre oscuro para verificar si quedo bien echa o no.
+- Como tercer paso se cortara un trozo de cartulina con el doble del tamaño del trozo de papel aluminio donde se encuentra la rendija y se realizara un corte un hueco rectangular a la cartulina que sea del tamaño de las rendijas y despues se pegara el papel aluminio de tal que las rendijas queden en el hueco y el material sobrante se pegue a la cartulina
+
 
 
