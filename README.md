@@ -14,7 +14,9 @@ vamos a realizar y comprobar este experimento en casa.
 - papel aluminio
 - 1 bisturi
 - 1 Puntero Laser
+
 ![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/exp2.jpeg)
+
 # PROCEDIMIENTO DEL EXPERIMENTO
 - Como primer paso tomaremos un trozo de papel auliminio cortsdo en forma rectangular, se tomara el visturi se realizara un primer corte   guiado por la regla en este caso de 9 cm de largo y el ancho sera igual al grosor de la hoja del visturi, se realizara un corte   paralelo e igual a una distancia a no mas de medio milimetro.
 - Como segundo se realizara una pequeña prueba apuntando el laser al espacio ubicado entre las dos rendijas, y se apuntara a una pared donde se encuentre oscuro para verificar si quedo bien echa o no.
@@ -32,12 +34,16 @@ Lo primero que vemos es que los electrones llegan a la segunda estructura y coli
 ahora teniendo en cuenta el siguiente planteamiento tomado del libro "Quantum Computing for Computer Scientists" :
 
 ![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/Captura.PNG)
+
 donde tenemos enumerados los nodos en los que puede estar la particula en un determinado numero de clicks de tiempo,al simular el experimento en una calculadora compleja nos da la siguiente grafica de posibilidades luego de 1 click de tiempo:
 
 ![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion1.png)
+
 esto nos muestra que es la misma posibilidad de estar en cualquiera de las dos rendijas, o estar en las dos al mismo tiempo.
 por ultimo luego de dos clicks de tiempo vemos las sigientes posibilidades
+
 ![alt text] (https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion2.png)
+
 dandonos el patron mostrado anteriormente.
 
 
