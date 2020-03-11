@@ -13,13 +13,15 @@ vamos a realizar y comprobar este experimento en casa.
 - 1 palo de balzo
 - papel aluminio
 - 1 bisturi
-# PROCEDIMIENTO
+- 1 Puntero Laser
+# PROCEDIMIENTO DEL EXPERIMENTO
 - Como primer paso tomaremos un trozo de papel auliminio cortsdo en forma rectangular, se tomara el visturi se realizara un primer corte   guiado por la regla en este caso de 9 cm de largo y el ancho sera igual al grosor de la hoja del visturi, se realizara un corte   paralelo e igual a una distancia a no mas de medio milimetro.
 - Como segundo se realizara una pequeña prueba apuntando el laser al espacio ubicado entre las dos rendijas, y se apuntara a una pared donde se encuentre oscuro para verificar si quedo bien echa o no.
 - Como tercer paso se cortara un trozo de cartulina con el doble del tamaño del trozo de papel aluminio donde se encuentra la rendija y se realizara un corte un hueco rectangular a la cartulina que sea del tamaño de las rendijas y despues se pegara el papel aluminio de tal que las rendijas queden en el hueco y el material sobrante se pegue a la cartulina
+- Como cuarto paso se cortaran dos palos de balso con el mismo tamaño que tendran una base en la parte de abajo, estos se pegararn en los extremos de la cartulina donde tenemos las rendijas y ademas se pegaran a los extremos de la cartulina.
+- Como Quinto paso se realizara la misma estructura antes presentada de la cartulina y los palos de balso pero un poco mas grande del tamaño de la anterior y esta no tendra una rendija es decir no tendra ningun orificio este sera nuestro apoyo para ver el resultado del experimento.
+- Como ultimo paso se acomodara la estructura que tiene la rendija frente a la estrucutra que no la tiene a una distancia prudente, y desde una distancia de aproximadamente un metro se apuntara el laser al espacio entre las dos rendijas.
 
-![alt text](https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/exp2.jpeg)
-
-
+# RESULTADOS DEL EXPERIMENTO
 
 
