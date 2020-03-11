@@ -18,5 +18,8 @@ vamos a realizar y comprobar este experimento en casa.
 - Como segundo se realizara una pequeña prueba apuntando el laser al espacio ubicado entre las dos rendijas, y se apuntara a una pared donde se encuentre oscuro para verificar si quedo bien echa o no.
 - Como tercer paso se cortara un trozo de cartulina con el doble del tamaño del trozo de papel aluminio donde se encuentra la rendija y se realizara un corte un hueco rectangular a la cartulina que sea del tamaño de las rendijas y despues se pegara el papel aluminio de tal que las rendijas queden en el hueco y el material sobrante se pegue a la cartulina
 
+![alt text](https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/exp2.jpeg)
+
+
 
 
