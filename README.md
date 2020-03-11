@@ -37,7 +37,7 @@ ahora teniendo en cuenta el siguiente planteamiento tomado del libro "Quantum Co
 
 donde tenemos enumerados los nodos en los que puede estar la particula en un determinado numero de clicks de tiempo,al simular el experimento en una calculadora compleja nos da la siguiente grafica de posibilidades luego de 1 click de tiempo:
 
-![alt text](https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion1.png)
+![alt text](https://github.com/JuanRomero11/EXPERIMENTO-CNYT/blob/master/simulacion.png)
 
 esto nos muestra que es la misma posibilidad de estar en cualquiera de las dos rendijas, o estar en las dos al mismo tiempo.
 por ultimo luego de dos clicks de tiempo vemos las sigientes posibilidades
